@@ -11,4 +11,5 @@ git flow 실습
 10. rel : develop과 product에 배포
 ----1차 배포
 
-11. 오류 발생, hotfix 요청
+11. prod : 오류 발생, hotfix 요청
+12. hf : product에서 오류 발생, 핫픽스 수정 완료
