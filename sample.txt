@@ -1,2 +1,3 @@
 git flow 실습
 1. dev : 기능 개발 시작
+2. feature2 : 2번 기능 개발 완료
